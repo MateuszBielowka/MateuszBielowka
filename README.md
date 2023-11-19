@@ -7,4 +7,4 @@
 - I also have experience creating `HTML` + `CSS` web pages.
  ---
 ![pic]()
-[![Pic](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)
+
