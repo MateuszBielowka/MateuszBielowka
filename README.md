@@ -6,5 +6,5 @@
 - I’m currently learning  `C`, `C++` and `Python`.
 - I also have experience creating `HTML` + `CSS` web pages.
  ---
-![pic]()
+
 
