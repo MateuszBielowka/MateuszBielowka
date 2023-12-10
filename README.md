@@ -8,3 +8,5 @@
  ---
 [Link do strony o mnie](https://mateuszbielowka.github.io/)
 
+[Link do zforkowanego ropzytorium](https://github.com/MateuszBielowka/CondensedMovies)
+[Link do powiązanego artykułu](https://arxiv.org/pdf/2005.04208v2.pdf)
