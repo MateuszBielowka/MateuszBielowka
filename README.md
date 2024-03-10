@@ -6,8 +6,11 @@
 - I’m currently learning  `C`, `C++` and `Python`.
 - I also have experience creating `HTML` + `CSS` web pages.
  ---
-[Link do strony o mnie](https://mateuszbielowka.github.io/)
-𝄞 𝄞 𝄞
+[My github.io page](https://mateuszbielowka.github.io/)
+</br>
+<center>"𝄞 𝄞 𝄞"</center>  </br> </br>
+<p style="text-align: center;"> Centered text </p>
+
 [▶• ılıılıılılılıılıılı. 0](https://www.youtube.com/watch?v=h8O93JyYve0)
 
 [🎺This sunset bout'a play🎺](https://www.youtube.com/watch?v=ElDX1hHg-4g&t=0s)
