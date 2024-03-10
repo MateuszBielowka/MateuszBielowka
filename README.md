@@ -1,4 +1,4 @@
-# About Me
+## About Me
 ---
 👋 Hi there! My name is **Mateusz Bielówka**, and I’m a first-year student of *Computer Science and Intelligent Systems* at AGH in Krakow. Here are some things you might want to know about me:
 
@@ -8,5 +8,4 @@
  ---
 [Link do strony o mnie](https://mateuszbielowka.github.io/)
 
-[Link do zforkowanego ropzytorium](https://github.com/MateuszBielowka/CondensedMovies)
-[Link do powiązanego artykułu](https://arxiv.org/pdf/2005.04208v2.pdf)
+[---](https://www.youtube.com/watch?v=h8O93JyYve0)
